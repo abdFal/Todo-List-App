@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+* {
+  font-family: "Poppins";
+}
+.form-control {
+  font-size: 14px;
+}
+
+.tables {
+  align-items: center;
+}
+
+.foot {
+  font-size: 13.5px;
+}
