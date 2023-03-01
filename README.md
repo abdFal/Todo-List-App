@@ -1,6 +1,6 @@
 # Todo-List-App
 
-This is a simple todo list app built with PHP, HTML, CSS, JS, and Bootstrap v5.2 
+This is a simple todo list app built with PHP, HTML, CSS, JS, and Bootstrap v5.3
 
 # Features
 Add new todo items
@@ -25,7 +25,7 @@ To edit an item, click the edit button next to the item and make the changes in 
 To filter items by status, click the All, Active, or Completed buttons at the top of the list.
 To clear all completed items, click the Clear Completed button at the bottom of the list.
 # Credits
-Bootstrap v5.2 - https://getbootstrap.com/
+Bootstrap v5.2 - https://getbootstrap.com/docs/5.3/
 jQuery v3.6.0 - https://jquery.com/
 PHP v7.4.3 - https://www.php.net/
 MySQL v8.0.23 - https://www.mysql.com/
